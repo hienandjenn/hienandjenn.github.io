@@ -3,12 +3,12 @@
 /* ---------------------------------------------- */
 
 @font-face {
-	font-family: 'Santorini';
-	src: url('../fonts/santorini.eot');
-	src: url('../fonts/santorini.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/santorini.woff2') format('woff2'),
-		url('../fonts/santorini.woff') format('woff'),
-		url('../fonts/santorini.ttf') format('truetype');
+	font-family: 'Figo';
+	src: url('../fonts/figo.eot');
+	src: url('../fonts/figo.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/figo.woff2') format('woff2'),
+		url('../fonts/figo.woff') format('woff'),
+		url('../fonts/figo.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -305,11 +305,11 @@ textarea.form-control {
 }
 
 .pfblock-title{
-    font-family: 'Santorini', monospace;
+    font-family: 'Figo', monospace;
 	color: #333333;
 	text-transform: none;
 	font-weight: normal;
-	font-size: 80px;
+	font-size: 100px;
 	letter-spacing: 0px;
 	padding-top: 50px;
 	margin-bottom: -30px;
@@ -433,9 +433,9 @@ textarea.form-control {
 
 
 .ourstory-desc {
-	font-family: 'Santorini';
+	font-family: 'Figo';
     margin-bottom: -80px;
-    font-size: 150px;
+    font-size: 180px;
     color: #fff;
 }
 
@@ -538,7 +538,7 @@ textarea.form-control {
  * RSVP
 /* ---------------------------------------------- */
 .rsvp-title {
-	font-family: 'Santorini';
+	font-family: 'Figo';
 	font-size: 150px;
 	text-transform: none;
 	font-weight: normal;
@@ -634,11 +634,12 @@ textarea.form-control {
 }
 
 .navbar-custom .navbar-brand {
-	font-size: 32px;
-    font-family: 'Santorini';
+	font-size: 40px;
+    font-family: 'Figo';
 	text-decoration: none;
 	text-transform: none;
-	padding-top: 30px;
+	letter-spacing: 5px;
+	padding-top: 15px;
 }
 
 .navbar-custom .dropdown-menu {
@@ -772,7 +773,7 @@ textarea.form-control {
 @media (max-width: 768px) {
 
 	.ourstory-desc{
-		font-family: 'Santorini';
+		font-family: 'Figo';
 		font-size: 70px;
 	    color: #fff;
 	}
