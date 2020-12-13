@@ -415,6 +415,7 @@ textarea.form-control {
 
 .story h2 {
 	font-family: 'Montserrat Regular', monospace;
+	text-transform: lowercase;
 	font-weight: normal;
 	letter-spacing: 0px;
 	font-size: 31px;

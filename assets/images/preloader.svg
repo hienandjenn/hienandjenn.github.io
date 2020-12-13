@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="120px" height="70px" viewBox="0 0 120 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>preloader</title>
-    <g id="preloader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="figo" font-size="70" font-weight="normal" letter-spacing="5">
+    <g id="preloader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="figo" font-size="70" font-weight="normal" letter-spacing="7">
         <text id="h+j" stroke="#333333" stroke-width="0.2" fill="#333333">
-            <tspan x="26.075" y="57">h+j</tspan>
+            <tspan x="23.075" y="57">h+j</tspan>
         </text>
     </g>
 </svg>
