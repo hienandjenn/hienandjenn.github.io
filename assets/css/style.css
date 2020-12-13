@@ -434,8 +434,8 @@ textarea.form-control {
 
 .ourstory-desc {
 	font-family: 'Figo';
-    margin-bottom: -80px;
     font-size: 180px;
+	line-height: 180px;
     color: #fff;
 	text-transform: none;
 }
@@ -777,12 +777,12 @@ textarea.form-control {
 		font-family: 'Figo';
 		font-size: 85px;
 		line-height: 85px;
-		margin-top: 120px;
+		margin-top: 180px;
 	    color: #fff;
 	}
 	
 	.ourstory-date{
-		margin-top: 80px;
+		margin-top: 30px;
 		font-size: 25px;
 	}
 
