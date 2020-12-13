@@ -681,15 +681,15 @@ textarea.form-control {
 	width: 35px;
 	height: 35px;
 	text-align: center;
-	color: #fff !important;
+	color: #FFFFFF;
 	font-size: 15px;
 	line-height: 30px;
 }
 
 .scroll-up a:hover,
 .scroll-up a:active {
-	background-color: #BC7566;
-	color: #333;
+	background-color: #FAFAFA;
+	color: #BC7566;
 }
 
 /* ---------------------------------------------- /*
