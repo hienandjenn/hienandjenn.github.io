@@ -493,7 +493,7 @@ textarea.form-control {
 	padding: 0;
 	font-family: 'Montserrat Regular', monospace;
 	font-size: 19px;
-	text-transform: lowercase;
+	text-transform: none;
 	font-weight: normal;
 	color: #333;
 }
