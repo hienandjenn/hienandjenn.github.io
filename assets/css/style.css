@@ -775,12 +775,14 @@ textarea.form-control {
 
 	.ourstory-desc{
 		font-family: 'Figo';
-		font-size: 90px;
+		font-size: 150px;
+		line-height: 100px;
+		margin-top: 120px;
 	    color: #fff;
 	}
 	
 	.ourstory-date{
-		margin-top: 40px;
+		margin-top: 80px;
 		font-size: 25px;
 	}
 
