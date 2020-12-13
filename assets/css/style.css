@@ -638,7 +638,7 @@ textarea.form-control {
 	font-size: 40px;
     font-family: 'Figo';
 	text-decoration: none;
-	text-transform: none;
+	text-transform: lowercase;
 	letter-spacing: 5px;
 	padding-top: 15px;
 }
