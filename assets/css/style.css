@@ -472,7 +472,7 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
- * Festivities
+ * Wedding Day
 /* ---------------------------------------------- */
 
 .iconbox {
@@ -544,8 +544,8 @@ textarea.form-control {
 	text-transform: none;
 	font-weight: normal;
 	letter-spacing: 0px;
-	margin-top: 100px;
-	margin-bottom: -80px;
+	margin-top: 0px;
+	margin-bottom: 20px;
 	color: #333;
 }
 
@@ -775,12 +775,12 @@ textarea.form-control {
 
 	.ourstory-desc{
 		font-family: 'Figo';
-		font-size: 70px;
+		font-size: 110px;
 	    color: #fff;
 	}
 	
 	.ourstory-date{
-		margin-top: 30px;
+		margin-top: 40px;
 		font-size: 25px;
 	}
 
@@ -809,7 +809,7 @@ textarea.form-control {
 	}
 
 	.pfblock-title {
-		font-size: 60px;
+		font-size: 85px;
 	}
 
 	.pfblock-subtitle {
